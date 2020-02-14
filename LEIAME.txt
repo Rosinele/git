@@ -1,4 +1,4 @@
-Branch MASTER
+﻿Branch MASTER
 Branch EXPERIMENTO/DEVELOPER
 Branch BUGFIX
 
@@ -20,8 +20,11 @@ Comparar dois Commmit (pegar código Hash)
 Mostrar detalhes das mudanças pós commit
  - git show
 
-Voltar commit - git reset --soft hashcommit01
+Voltar commit preservar o arquivo
+ - git reset --soft hashcommit01
 
+Voltar commit e alterar arquivo
+ -git reset --hard 
 
  
  
