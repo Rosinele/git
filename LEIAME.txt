@@ -27,4 +27,13 @@ Voltar commit e alterar arquivo
  -git reset --hard 
 
  
+Git Push - subir as mudanças do repositorio local para o remoto
+
+Git Clone - Clona o repositorio remoto para o computador
+
+Git Fetch - baixas as mudanças do repositorio remoto para o local
+
+Git Merge - Junta as mudanças baixadas do repo remoto ao nosso diretório
+
+Git pull - É a junção do git fetch e git merge.
  
