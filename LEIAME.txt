@@ -2,7 +2,7 @@
 Branch EXPERIMENTO/DEVELOPER
 Branch BUGFIX
 
-Mostrar todas as informações de configuação do Git
+Mostrar todas as informações de configuação do git
  - config --list
  
 Deleta arquivo da zona de stage
@@ -24,16 +24,23 @@ Voltar commit preservar o arquivo
  - git reset --soft hashcommit01
 
 Voltar commit e alterar arquivo
- -git reset --hard 
+ - git reset --hard 
 
- 
-Git Push - subir as mudanças do repositorio local para o remoto
+subir as mudanças do repositorio local para o remoto
+ - git Push
 
-Git Clone - Clona o repositorio remoto para o computador
+Clona o repositorio remoto para o computador
+ - git Clone 
 
-Git Fetch - baixas as mudanças do repositorio remoto para o local
+baixas as mudanças do repositorio remoto para o local
+ - git Fetch
 
-Git Merge - Junta as mudanças baixadas do repo remoto ao nosso diretório
+Junta as mudanças baixadas do repo remoto ao nosso diretório
+ - git Merge
 
-Git pull - É a junção do git fetch e git merge.
- 
+É a junção do git fetch e git merge.
+ - git pull 
+
+Criar uma nova Branch e já navegar por ela
+  - git checkout -b "nome da branch"
+
