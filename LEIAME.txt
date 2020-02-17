@@ -23,7 +23,6 @@ Mostrar detalhes das mudanças pós commit
 Voltar commit preservar o arquivo
  - git reset --soft hashcommit01
 
-<<<<<<< HEAD
 Voltar commit e alterar arquivo
  - git reset --hard 
 
@@ -44,8 +43,4 @@ Junta as mudanças baixadas do repo remoto ao nosso diretório
 
 Criar uma nova Branch e já navegar por ela
   - git checkout -b "nome da branch"
-=======
-.,
-
->>>>>>> 6c47ec0cbde0d5a584c02cda102e14e4343215ad
 
