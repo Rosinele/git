@@ -44,3 +44,9 @@ Junta as mudanças baixadas do repo remoto ao nosso diretório
 Criar uma nova Branch e já navegar por ela
   - git checkout -b "nome da branch"
 
+Vizualizar log completo de commits de todos os Branchs
+  - git log --all
+
+Vizualizar log completo com gráfico
+  - git log --all --graph
+
