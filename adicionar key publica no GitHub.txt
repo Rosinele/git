@@ -1,0 +1,5 @@
+primeiro gere a chave publica conforme arquivo de configuração chave SSH
+
+Cópie a chave que foi gerada
+Acesse o site github.com 
+Acesse configurações do laddo direito do browser
