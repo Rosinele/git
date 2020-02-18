@@ -50,3 +50,28 @@ Vizualizar log completo de commits de todos os Branchs
 Vizualizar log completo com gráfico
   - git log --all --graph
 
+Vizualiza log completo de commits em gráfico mais completo e organizado
+  - git log --all --graph --decorate --oneline
+
+Criar atalhos de comando no git
+  - git config --global alias.nomedesejado "código que deseja criar atalho"
+
+Criar uma tag de versão para um commit
+  - git tag -a v0.1.1 codigocommit
+        nano chancher 
+        funcionalidades novas 
+        braeak changer - grandes modificações
+        versão, quando for zero ainda não foi lançado (beeta)
+
+Vizualizar tags criadas
+  - git tag
+
+Vizualizar commit associado a tag
+  - git show-ref --tags
+
+Enviar tag para o github
+  - git push --tags
+
+Excluir um tag
+  - git tag -d nomedatag (exemplo: v1.0.0)
+
