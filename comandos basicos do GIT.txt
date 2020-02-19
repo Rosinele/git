@@ -75,3 +75,5 @@ Enviar tag para o github
 Excluir um tag
   - git tag -d nomedatag (exemplo: v1.0.0)
 
+Mostrar todas as mudanças
+  - git pull --allow-unrelated-histories
