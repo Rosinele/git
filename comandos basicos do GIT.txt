@@ -77,3 +77,23 @@ Excluir um tag
 
 Mostrar todas as mudanças
   - git pull --allow-unrelated-histories
+
+Realizar download e iniciar um repositório git local
+  - git clone urldorepositório
+
+Listar todos os arquivos, inclusive ocultos
+ - ls -a
+ 
+=======================================================================================
+
+Liberar acesso para outras pessoas alterarem repositório
+  Settings do repositório
+    Aba de Collaborators
+      Adiciona nome e enviar convite
+
+========================================================================================
+
+
+
+
+
