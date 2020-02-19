@@ -10,6 +10,3 @@ Sobre mim:
 As minhas experimentações com a nova Branch
 
 Resolvi o bug dessa linha :3
-
-
-Testando os pull request do GitHub
