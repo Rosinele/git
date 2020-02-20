@@ -1,0 +1,79 @@
+﻿Branch MASTER
+Branch EXPERIMENTO/DEVELOPER
+Branch BUGFIX
+
+Mostrar todas as informações de configuação do git
+ - config --list
+ 
+Deleta arquivo da zona de stage
+ - git rm --cached leiame.txt
+ 
+Vizualizar todos os commits realizados
+ - git log
+ 
+Acicionar mais de uma linha no comentário do Commit
+ - git commit
+
+Comparar dois Commmit (pegar código Hash)
+ - git diff hashcommit01 hashcommit02
+ 
+Mostrar detalhes das mudanças pós commit
+ - git show
+
+Voltar commit preservar o arquivo
+ - git reset --soft hashcommit01
+
+Voltar commit e alterar arquivo
+ - git reset --hard 
+
+subir as mudanças do repositorio local para o remoto
+ - git Push
+
+Clona o repositorio remoto para o computador
+ - git Clone 
+
+baixas as mudanças do repositorio remoto para o local
+ - git Fetch
+
+Junta as mudanças baixadas do repo remoto ao nosso diretório
+ - git Merge
+
+É a junção do git fetch e git merge.
+ - git pull 
+
+Criar uma nova Branch e já navegar por ela
+  - git checkout -b "nome da branch"
+
+Vizualizar log completo de commits de todos os Branchs
+  - git log --all
+
+Vizualizar log completo com gráfico
+  - git log --all --graph
+
+Vizualiza log completo de commits em gráfico mais completo e organizado
+  - git log --all --graph --decorate --oneline
+
+Criar atalhos de comando no git
+  - git config --global alias.nomedesejado "código que deseja criar atalho"
+
+Criar uma tag de versão para um commit
+  - git tag -a v0.1.1 codigocommit
+        nano chancher 
+        funcionalidades novas 
+        braeak changer - grandes modificações
+        versão, quando for zero ainda não foi lançado (beeta)
+
+Vizualizar tags criadas
+  - git tag
+
+Vizualizar commit associado a tag
+  - git show-ref --tags
+
+Enviar tag para o github
+  - git push --tags
+
+Excluir um tag
+  - git tag -d nomedatag (exemplo: v1.0.0)
+
+Mostrar todas as mudanças
+  - git pull --allow-unrelated-histories
