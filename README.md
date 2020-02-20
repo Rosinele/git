@@ -17,3 +17,17 @@ Você pode saber mais sobre mim no [site](www.google.com)
 	Estou aprendendo para trabalhar com Back-end
 ### Java Script
 	Estou aprendendo JavaScript na Platzi
+
+#### Markdown Cheat Sheet <h4>
+##### Markdown Cheat Sheet <h5>
+###### Markdown Cheat Sheet <h6>
+
+Citação
+ > Nunca pare de aprender
+
+ Tabelas
+
+ Título 1 | Titulo 2
+ --------- | -------------
+ Conteudo prim celula | Conteudo segunda coluna
+ Segunda linha primeira coluna | Segunda coluna primeira linha
