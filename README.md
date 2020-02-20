@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Eu sou Rose e estou aprendendo como criar um bom README.md
+Eu sou _Rose_ e estou aprendendo como criar um bom **README.md**
 
 Você pode saber mais sobre mim no [site](www.google.com)
 
@@ -10,3 +10,10 @@ Você pode saber mais sobre mim no [site](www.google.com)
 
 - Programação Básica
 - Git e GitHub
+
+## Linguagens de Programação que gosto
+
+### Python
+	Estou aprendendo para trabalhar com Back-end
+### Java Script
+	Estou aprendendo JavaScript na Platzi
