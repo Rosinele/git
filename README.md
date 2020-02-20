@@ -4,7 +4,6 @@
 
 Eu sou _Rose_ e estou aprendendo como criar um bom **README.md**
 
-<<<<<<< HEAD
 Você pode saber mais sobre mim no [site](www.google.com)
 
 ## Cursos que fiz até agora
@@ -29,6 +28,3 @@ Citação
 Modificação 01
 
 Modificação 02
-=======
-Resolvi o bug dessa linha :3
->>>>>>> 8186703842634f6b0f439d2fcef4aa4273ad66b5
