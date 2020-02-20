@@ -1,16 +1,12 @@
-#primeiro repositório Git
+# Rose Félix
 
-Neste repositório colocarei meu Portifólio
+## Sobre
 
-Sobre mim:
-	Eu sou a Rose.
-	Graduanda em sitemas de informação.
-	#Existe um arquivo com as linguagens que eu programo
-	
-As minhas experimentações com a nova Branch
+Eu sou Rose e estou aprendendo como criar um bom README.md
 
-Resolvi o bug dessa linha :3
+Você pode saber mais sobre mim no [site](www.google.com)
 
+## Cursos que fiz até agora
 
-Testando os pull request do GitHub
-Estou adorando utilizar os pull request do github
+Programação Básica
+Git e GitHub
