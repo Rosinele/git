@@ -8,5 +8,5 @@ Você pode saber mais sobre mim no [site](www.google.com)
 
 ## Cursos que fiz até agora
 
-Programação Básica
-Git e GitHub
+- Programação Básica
+- Git e GitHub
